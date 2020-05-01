@@ -1,0 +1,2 @@
+yum install openssl openssl-devel gcc-c++ git taglib taglib-devel -y
+git clone https://github.com/anonymous5l/ncmdump.git
